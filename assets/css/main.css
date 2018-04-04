@@ -171,3 +171,8 @@ table.table thead th {
 #choferes2 {
   margin-top: 2em;
 }
+
+.card-body p{
+  font-size: 2em !important;
+    color: green;
+}

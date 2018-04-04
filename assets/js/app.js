@@ -85,6 +85,8 @@ $("#tasks").click(function() {
   }
 });
 
+
+
 $(document).ready(function() {
   loadDashboard();
 });
